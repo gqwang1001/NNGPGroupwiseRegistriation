@@ -1,8 +1,8 @@
 %%
-addpath("D:\Dropbox\projects\SpatialProjectGIT\SpatialAnalysis\GroupwiseReg\code\Matlab\");
-addpath("D:\Dropbox\projects\SpatialProjectGIT\SpatialAnalysis\GroupwiseReg\code\Matlab\MCMC\supportFunctions\");
-addpath("D:\Dropbox\projects\SpatialProjectGIT\SpatialAnalysis\GroupwiseReg\code\Matlab\MCMC\2DSupportFunctions\");
-addpath("D:\Dropbox\projects\SpatialProjectGIT\SpatialAnalysis\GroupwiseReg\code\Matlab\MCMC\RBF");
+addpath("D:\GroupwiseReg\code\Matlab\");
+addpath("D:\GroupwiseReg\code\Matlab\MCMC\supportFunctions\");
+addpath("D:\GroupwiseReg\code\Matlab\MCMC\2DSupportFunctions\");
+addpath("D\GroupwiseReg\code\Matlab\MCMC\RBF");
 
 %% load MINST data
 [XTrain,YTrain] = digitTrain4DArrayData;
