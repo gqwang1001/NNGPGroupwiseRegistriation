@@ -6,3 +6,4 @@ Please make sure that the supporting functions in `\supportFunctions`, `\2dsuppo
 
 The `data` folder provides data in the one-dimensional simulation setting. The data in the two-dimensional setting was provided by the MNIST dataset which is embedded in MATLAB.
 
+`run_1d_v1.m` and `run_2d_v1.m` provide code for both simulation settings.
