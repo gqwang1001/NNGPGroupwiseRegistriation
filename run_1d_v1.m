@@ -47,7 +47,7 @@ niter = 1e4/2;
 rng(1);
 out1d = MCMC1d_rbf(init, dataIn, niter, hyperPars);
 
-%% trace plot
+%% plot
 
 nburnin =3e3;
 range = nburnin:niter;
